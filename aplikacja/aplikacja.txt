@@ -1,0 +1,1 @@
+aplikacja ma dzialac tak, ze uzytkownik po odpaleniu aplikcji widzi logo strony i ma mozliwosc zalogowania sie, wpisania wlasnego hasla(okreslenie jego "siły" w skali 1-10) oraz na stronie jest prycisk, ktory po kliknieciu w niego zapamietuje dane uzywkownika
